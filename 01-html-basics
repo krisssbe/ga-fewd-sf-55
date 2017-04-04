@@ -1,6 +1,18 @@
 <!DOCTYPE html>
 <html>
 	<head>
+		<link href="/assets/normalize.css" rel="stylesheet">
+		<style>
+			header {
+					text-align: center; 
+			}
+			ul {
+					padding: 10px
+			}
+			li {
+					display: inline;
+			}
+		</style>
 		<title> Joe Johnson - Portfolio </title>
 	</head>
 
