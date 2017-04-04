@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> Joe Johnson - Portfolio </title>
+	</head>
+
+	<body>
+		<p>Portfolio Page </p>
+
+		<header>
+			<nav>
+				<ul>
+					<li> <a href="joe.html"> About Me </a> </li> 
+					<li> Portfolio </li>
+				</ul>
+			</nav>
+			<h1> Joe Johnson </h1>
+		</header>
+
+		<hr/>
+
+		<section> 
+			<h2> Experience </h2>
+			<p1>I recently graduated from a Front-End Web Development course at General Assembly where I learned HTML, CSS, JavaScript, and jQuery and learned how to be an awesome Front-End Web Development. During my aspare time, I enjoy senior water aerobics, pickling, and spending time with my goldfish Jerry. </p1>
+			<h3>PORTFOLIO</h3>
+			<ul>
+				<li>Web Developer, Relaxr 2015 - present</li>
+			</ul>
+			<p2>Developed a multi-column layout blog, landing page, and contact forms that render on mobile devices.</p2>
+		</section>
+
+		<img src="relaxr_deliverable.png">
+
+	</body>
+</html>
