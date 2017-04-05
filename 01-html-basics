@@ -11,13 +11,13 @@
 			}
 			li {
 					display: inline;
+					padding: 0px 10px 0px 10px;
 			}
 		</style>
 		<title> Joe Johnson - Portfolio </title>
 	</head>
 
 	<body>
-		<p>Portfolio Page </p>
 
 		<header>
 			<nav>
